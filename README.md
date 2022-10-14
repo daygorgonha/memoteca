@@ -6,7 +6,7 @@
 
 <br />
 
-<p align="center">Nesse projeto foi um mural de pensamentos utilizando Angular. Nele você poderá colocar citações de livros, trechos de música, e aquelas frases legais que você quer deixar de reserva para postar como legenda em suas selfies.</p>
+<p align="center">Nesse projeto foi criado um mural de pensamentos utilizando Angular. Nele você poderá colocar citações de livros, trechos de música, e aquelas frases legais que você quer deixar de reserva para postar como legenda em suas selfies.</p>
 
 <br />
 
